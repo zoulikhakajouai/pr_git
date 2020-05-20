@@ -1,0 +1,36 @@
+body {
+	  width: 60em;
+	  margin: 0 auto;
+	}
+
+	h1 {
+	  text-align: center;
+          color: blue;
+	}
+
+	#datos, #descripcion {
+		width:44em;
+	  float: left;
+	  padding: 0;
+	  margin: 0;
+	}
+
+	#datosLibro {
+	 width: 16em;
+	 float: left;
+	}
+
+	#principal {
+	  width: 44em;
+	}
+
+	#contenido{
+	  list-style-type: none;
+	}
+
+	#contenido li {
+	  float: left;
+	  width: 33%;
+	  padding: 1px;
+	}
+
